@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 This is Rahul's Commit
+=======
+This is Rahul's Commit, 
+This is Vansh's Commit
+This is Shravani's Commit!!
+This is jayesh commit
 greagoor has come
+>>>>>>> 431604acd0d26b8a0b0b1a25db981170a65563fd
